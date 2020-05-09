@@ -1,0 +1,2 @@
+class DateRequestsController < ApplicationController
+end

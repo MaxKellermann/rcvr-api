@@ -1,0 +1,2 @@
+class DateRequest < ApplicationRecord
+end
